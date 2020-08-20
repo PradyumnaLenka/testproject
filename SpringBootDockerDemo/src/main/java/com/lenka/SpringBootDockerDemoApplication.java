@@ -8,6 +8,7 @@ public class SpringBootDockerDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootDockerDemoApplication.class, args);
+		System.out.println("Pradyumna Kumar Lenka");
 	}
 
 }
